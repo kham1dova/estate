@@ -199,7 +199,7 @@ main .title .sub-block-img .img-inline img {
   color: #6f7278;
 }
 .our-goal .img-info {
-  width: 1168px;
+  width: 100%;
   height: 587.52px;
   margin-top: 30px;
   display: flex;
@@ -347,7 +347,7 @@ main .listings p {
   padding-top: 20px;
 }
 main .listings .our-sevices {
-  width: 1168px;
+  width: 100%;
   height: 797.08px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -1023,7 +1023,7 @@ footer .info-link .link {
     line-height: 25px;
   }
   main .newsroom .new-houses {
-    height: 1200px;
+    height: 100dvh;
     grid-template-columns: 1fr;
     background: #fafafc;
   }
